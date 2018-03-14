@@ -1,2 +1,2 @@
-# C-C-guideline
+# C/C++guideline
 C C++ 
