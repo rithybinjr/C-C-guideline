@@ -9,7 +9,7 @@ ________________________________________________________
 int num = 3;
 printf("this is %d", num);
 
-class Rational {
+<h1>class Rational {
     int _n = 0;
     int _d = 1;
 public:
@@ -23,4 +23,4 @@ public:
     Rational operator - ( const Rational & ) const;
     Rational operator * ( const Rational & ) const;
     Rational operator / ( const Rational & ) const;
-};
+};</h1>
