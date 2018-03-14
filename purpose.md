@@ -1,11 +1,11 @@
 
 C++ programming language :
-
-1 - What is C++
-2 - Introduction to basic syntax
-3 - Anatomy of C++ program
-4 - Statement and Expression
-5 - Identifer
-6 - Defining variable
+<pre>
+1 - What is C++ </bre>
+2 - Introduction to basic syntax </bre>
+3 - Anatomy of C++ program </bre>
+4 - Statement and Expression </bre>
+5 - Identifer </bre>
+6 - Defining variable </bre>
 7 -
-
+</pre>
