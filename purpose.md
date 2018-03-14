@@ -1,1 +1,11 @@
-purpose
+
+C++ programming language :
+
+1 - What is C++
+2 - Introduction to basic syntax
+3 - Anatomy of C++ program
+4 - Statement and Expression
+5 - Identifer
+6 - Defining variable
+7 -
+
